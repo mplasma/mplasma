@@ -10,7 +10,7 @@
 
 ### OS
 
-~Linux Mint 21.3~ <br/> ~Fedora~ <br/> ~Windows 11~ <br/> ~Arch Linux~ <br/> **Hyprland** (*DE*) - Arch Linux
+Windows 11
 
 ### Where does my name come from?
 
