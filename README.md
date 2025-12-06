@@ -62,12 +62,3 @@ Windows 11
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realfibondev&theme=dark)
 <br />
 ![Main Stats](https://github-readme-stats.vercel.app/api?username=realfibondev&show_icons=true&theme=dark)
-
-## [VaporScript](https://github.com/ContentGamer/vaporscript)
-A custom programming language made in rust.
-
-...More at my [repositories](https://github.com/ContentGamer?tab=repositories)
-
-### Status
-
-Nothing.
