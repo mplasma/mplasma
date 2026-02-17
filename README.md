@@ -1,4 +1,4 @@
-<p align="center">I'm FibonDev, a programmer that does everything.</p>
+<p align="center">I'm mPlasma, a programmer that does everything.</p>
 
 <p align="center">
   <a href="https://youtube.com/@realcontentdev?sub_confirmation=1">
@@ -11,12 +11,6 @@
 ### OS
 
 Windows 11
-
-### Where does my name come from?
-
-**Fibon** is a shorthand for fibonacci (popular math pattern duh).
-<br/>
-**Dev** is well.. a shorthand for developer.
 
 ### Languages
 
